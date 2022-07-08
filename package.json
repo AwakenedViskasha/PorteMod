@@ -1,0 +1,11 @@
+{
+  "name": "portemod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exporter.js",
+  "scripts": {
+    "test": "node ./example/testPorteMod"
+  },
+  "author": "",
+  "license": "GNU GPL"
+}
